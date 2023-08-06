@@ -1,3 +1,5 @@
+![Cover](https://github.com/Sans-arch/04-ignite-shop/assets/69471715/fe2b1181-5f2f-480a-a69f-c1d00be938b1)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
